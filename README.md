@@ -20,6 +20,6 @@
 ---
 
 ## Green Diary Representation
-![Ekran 1](./lib/screenshots/1.png)
-![Ekran 2](./lib/screenshots/2.png)
+![Ekran 1](./lib/screenshots/1.jpg)
+![Ekran 2](./lib/screenshots/2.jpg)
 
