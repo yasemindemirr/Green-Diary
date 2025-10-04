@@ -1,16 +1,22 @@
-# flutter_sustain
+# Green Diary 🌱
 
-A new Flutter project.
+**Green Diary** is a mobile application project developed as my **final project at Kodluyoruz Mobile Application Development Workshop** last year. The app helps users track sustainable lifestyle habits and make environmentally conscious choices.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features
+- Track daily eco-friendly activities
+- Set sustainability goals and reminders
+- View personal progress and achievements
+- User-friendly and intuitive UI
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Technologies
+- **Flutter**: For cross-platform mobile development
+- **Dart**: Programming language
+- UI/UX designed with a focus on simplicity and usability
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+![Ekran Görüntüsü 1](./screenshots/1.png)
+![Ekran Görüntüsü 2](./screenshots/2.png)
