@@ -1,6 +1,6 @@
 # Green Diary 🌱
 
-**Green Diary** is a mobile application project developed as my **final project at Kodluyoruz Mobile Application Development Workshop** . The app helps users track sustainable lifestyle habits and make environmentally conscious choices.
+**Green Diary** is a mobile application project developed as my **final project at Kodluyoruz Mobile Application Development Bootcamp** . The app helps users track sustainable lifestyle habits and make environmentally conscious choices.
 
 ---
 
