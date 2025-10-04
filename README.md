@@ -20,7 +20,8 @@
 ---
 
 ## Green Diary Representation
-![Ekran 1](./screenshots/1.jpg)
+
 ![Ekran 2](./screenshots/2.jpg)
+![1](https://github.com/user-attachments/assets/b7a3d55d-0beb-473e-8c13-2033e33dc6f2)
 
 
