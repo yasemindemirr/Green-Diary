@@ -1,10 +1,10 @@
-# Green Diary 🌱
+# 🌱 Green Diary 
 
 **Green Diary** is a mobile application project developed as my **final project at Kodluyoruz Mobile Application Development Bootcamp** . The app helps users track sustainable lifestyle habits and make environmentally conscious choices.
 
 ---
 
-## Features
+## 🧩 Features
 - Track daily eco-friendly activities
 - Set sustainability goals and reminders
 - View personal progress and achievements
@@ -12,14 +12,14 @@
 
 ---
 
-## Technologies
+## 🛠 Technologies
 - **Flutter**: For cross-platform mobile development
 - **Dart**: Programming language
 - UI/UX designed with a focus on simplicity and usability
 
 ---
 
-## Green Diary Representation
+## 📱 Green Diary Representation
 ![1](https://github.com/user-attachments/assets/b7a3d55d-0beb-473e-8c13-2033e33dc6f2)
 ![2](https://github.com/user-attachments/assets/2514e19d-f36e-4e7e-9203-8d1e8ef60dbc)
 ![3](https://github.com/user-attachments/assets/f2ffda88-c7e4-4241-bd86-aea22dea058c)
